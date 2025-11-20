@@ -1,0 +1,27 @@
+# Core Dependencies
+pyvisa>=1.13.0
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Analysis Dashboard
+dash>=2.14.0
+plotly>=5.17.0
+
+# Enhancement Features
+openpyxl>=3.1.0  # Excel export functionality
+kaleido>=0.2.1   # Static plot image export (optional)
+
+# System Requirements
+# - Python 3.8 or higher
+# - NI-VISA or Keysight IO Libraries (for instrument communication)
+# - Py_TC720 library (must be in same directory as scripts)
+
+# Installation Instructions:
+# 1. Basic installation (data collection only):
+#    pip install pyvisa pandas numpy
+#
+# 2. Full installation (with analysis dashboard):
+#    pip install -r requirements.txt
+#
+# 3. Optional enhancements:
+#    pip install openpyxl kaleido
