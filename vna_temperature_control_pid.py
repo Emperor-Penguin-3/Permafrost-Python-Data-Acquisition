@@ -166,6 +166,12 @@ def initialize_devices():
     try:
         rm = visa.ResourceManager()
         print("Available VISA Resources:", rm.list_resources())
+
+        vna = rm.open_resource('TCPIP0::DESKTOP-N8PF739::hislip_PXI10_CHASSIS2_SLOT1_INDEX0::INSTR')
+        
+        # P5027A: 'TCPIP0::DESKTOP-N8PF739::hislip_PXI10_CHASSIS1_SLOT1_INDEX0::INSTR'
+        # P3974A: 'TCPIP0::DESKTOP-N8PF739::hislip_PXI10_CHASSIS2_SLOT1_INDEX0::INSTR'
+       
         vna = rm.open_resource('TCPIP0::DESKTOP-N8PF739::hislip_PXI10_CHASSIS1_SLOT1_INDEX0::INSTR')
         print(f"✅ VNA connected: {vna.query('*IDN?').strip()}")
         

@@ -1,0 +1,24 @@
+Timestamp,Elapsed_Time_s,Target_Temp_C,Sensor_Temp_1_C,Sensor_Temp_2_C,Current_Step,Note
+2025-12-07 17:56:57,1,5.0,7.75,7.77,1,PID_Ramp_or_Soaking
+2025-12-07 17:57:02,6,5.0,7.85,8.06,1,PID_Ramp_or_Soaking
+2025-12-07 17:57:07,11,5.0,7.95,8.6,1,PID_Ramp_or_Soaking
+2025-12-07 17:57:13,17,5.0,8.02,8.84,1,PID_Ramp_or_Soaking
+2025-12-07 17:57:18,22,5.0,8.09,8.93,1,PID_Ramp_or_Soaking
+2025-12-07 17:57:24,28,5.0,8.15,8.97,1,PID_Ramp_or_Soaking
+2025-12-07 17:57:29,33,5.0,8.2,9.0,1,PID_Ramp_or_Soaking
+2025-12-07 17:57:34,38,5.0,8.26,9.03,1,PID_Ramp_or_Soaking
+2025-12-07 17:57:40,44,5.0,8.3,9.06,1,PID_Ramp_or_Soaking
+2025-12-07 17:57:45,49,5.0,8.35,9.08,1,PID_Ramp_or_Soaking
+2025-12-07 17:57:51,55,5.0,8.4,9.11,1,PID_Ramp_or_Soaking
+2025-12-07 17:57:56,60,5.0,8.44,9.13,1,PID_Ramp_or_Soaking
+2025-12-07 17:58:02,66,5.0,8.48,9.15,1,PID_Ramp_or_Soaking
+2025-12-07 17:58:07,71,5.0,8.51,9.17,1,PID_Ramp_or_Soaking
+2025-12-07 17:58:12,76,5.0,8.55,9.19,1,PID_Ramp_or_Soaking
+2025-12-07 17:58:18,82,5.0,8.58,9.21,1,PID_Ramp_or_Soaking
+2025-12-07 17:58:23,87,5.0,8.61,9.22,1,PID_Ramp_or_Soaking
+2025-12-07 17:58:28,92,5.0,8.63,9.24,1,PID_Ramp_or_Soaking
+2025-12-07 17:58:34,98,5.0,8.66,9.25,1,PID_Ramp_or_Soaking
+2025-12-07 17:58:39,103,5.0,8.69,9.26,1,PID_Ramp_or_Soaking
+2025-12-07 17:58:45,109,5.0,8.71,9.28,1,PID_Ramp_or_Soaking
+2025-12-07 17:58:50,114,5.0,8.74,9.28,1,PID_Ramp_or_Soaking
+2025-12-07 17:58:55,119,5.0,8.76,9.3,1,PID_Ramp_or_Soaking

@@ -1,0 +1,14 @@
+{
+  "experiment_start": "2025-11-17 18:32:15",
+  "temperature_targets": [
+    0.0,
+    -10.0,
+    15.0
+  ],
+  "ramp_mode": "Controlled Linear",
+  "ramp_rate_C_per_min": 2.0,
+  "control_mode": "Normal Set Mode (PID)",
+  "sweeps": [],
+  "experiment_end": "2025-11-17 18:50:03",
+  "total_sweeps": 19
+}

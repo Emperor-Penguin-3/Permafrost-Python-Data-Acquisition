@@ -1,0 +1,33 @@
+{
+  "experiment_start": "2025-12-07 14:44:22",
+  "temperature_targets": [
+    10.0,
+    15.0,
+    5.0,
+    10.0,
+    0.0,
+    5.0,
+    -5.0,
+    0.0,
+    -10.0,
+    -5.0,
+    -15.0,
+    -10.0,
+    0.0,
+    -5.0,
+    5.0,
+    0.0,
+    10.0,
+    5.0,
+    15.0,
+    10.0
+  ],
+  "control_mode": "Normal Set Mode (Fast PID)",
+  "stability_tolerance_C": 0.5,
+  "required_stability_duration_s": 480.0,
+  "ramp_timeout_min": 60.0,
+  "sweeps": [],
+  "experiment_end": "2025-12-07 14:53:20",
+  "total_sweeps": 0,
+  "completed": false
+}
