@@ -1,0 +1,18 @@
+{
+  "experiment_start": "2025-12-10 15:10:38",
+  "temperature_targets": [
+    10.0,
+    0.0,
+    10.0,
+    15.0
+  ],
+  "control_flow": "PID Mode 0 Only (Python Time Control)",
+  "stability_tolerance_C": 1,
+  "unified_stability_soak_min": 3.0,
+  "ramp_timeout_min": 8.0,
+  "max_cooling_override_s": 30,
+  "sweeps": [],
+  "experiment_end": "2025-12-10 15:16:09",
+  "total_sweeps": 0,
+  "completed": false
+}

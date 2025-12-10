@@ -1,0 +1,5 @@
+Timestamp,Elapsed_Time_s,Target_Temp_C,Sensor_Temp_1_C,Sensor_Temp_2_C,Current_Step,Note
+2025-12-10 15:16:40,1,10.0,15.28,28.08,1,PID_Ramp_or_Soaking
+2025-12-10 15:16:45,6,10.0,15.64,27.95,1,PID_Ramp_or_Soaking
+2025-12-10 15:16:50,11,10.0,15.98,27.82,1,PID_Ramp_or_Soaking
+2025-12-10 15:16:56,17,10.0,16.34,27.7,1,PID_Ramp_or_Soaking
